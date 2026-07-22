@@ -2,7 +2,7 @@
 
 一个纯本地的酷儿柏拉图关系(Queerplatonic Relationship)自我探索与关系管理网页应用。
 
-**在线体验: [https://zoeryuu.github.io/Queer-Platonic-Relationship-Assistant/](https://zoeryuu.github.io/Queer-Platonic-Relationship-Assistant/)**
+**在线体验: [https://zoeryuu.github.io/Queer-Platonic-Relationship-Companion/](https://zoeryuu.github.io/Queer-Platonic-Relationship-Companion/)**
 
 ## 核心原则
 
